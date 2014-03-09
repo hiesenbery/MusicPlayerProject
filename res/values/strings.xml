@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicPlayerProject</string>
+    <string name="action_playlist">Playlist</string>
+    <string name="action_back">Back</string>
+    <string name="song_title">Song Title</string>
+    <string name="time">00:00</string>
+
+</resources>
